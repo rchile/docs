@@ -1,6 +1,8 @@
 ### Reglas sidebar
 
-Estas reglas también se utilizan para hacer las correspondientes denuncias a comentarios y posts.
+Esta es una versión recortada de [las reglas completas](Reglas.md), y que no deben interpretarse
+como las reglas definitivas del sub. También se utilizan para hacer las correspondientes denuncias 
+a comentarios y posts.
 
 #### 1. Contenido offtopic
 El contenido publicado en r/Chile debe estar relacionado con el sub y/o a Chile, 
