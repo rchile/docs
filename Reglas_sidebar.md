@@ -12,7 +12,7 @@ salvo algunas excepciones que puedes encontrar en
 #### 2. Etiqueta incorrecta
 La etiqueta (flair) seleccionada debe ser adecuada para la publicación. En caso de que no encuentres
 una, antepone entre corchetes una palabra o frase muy corta que reemplaze a la etiqueta 
-(por ejemplo, "[Fake news] El título").
+(por ejemplo, "[Farándula] Famoso revela información importante sobre su vida").
 
 #### 3. Autopromoción
 La autopromoción se encuentra restringida, según ciertas condiciones detalladas en
